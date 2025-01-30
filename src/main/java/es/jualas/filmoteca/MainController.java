@@ -85,6 +85,7 @@ public class MainController {
         } else {
             // Mostrar un mensaje de error si no se selecciona ninguna película
             showAlert("A sí NO", "CHACHO quieres estar en lo que estas, selecciona primero para poder editar.");
+
         }
     }
 
